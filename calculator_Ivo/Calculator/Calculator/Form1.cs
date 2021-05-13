@@ -151,29 +151,4 @@ namespace Calculator
 
         }
     }
-    public class Operations : Form1
-    {
-        private List<decimal> list;
-        public List<decimal> getList()
-        {
-            return list;
-        }
-        public void MemoryPlus(decimal a)
-        {
-            list.Add(a);
-        }
-        public void MemoryMinus(decimal a)
-        {
-            list.Add(a);
-        }
-        public void MemoryRecall()
-        {
-            textBox_Result.Text = list[list.Count - 1].ToString();
-        }
-
-        public void MemoryClear()
-        {
-            list.Clear();
-        }
-    }
 }

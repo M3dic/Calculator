@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ivora\\Desktop\\calculator-app-main\\calculator_Ivo\\Calculator\\Calculator\\Calculator.csproj": {}
+    "C:\\Users\\ivora\\Desktop\\Calculator\\calculator_Ivo\\Calculator\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ivora\\Desktop\\calculator-app-main\\calculator_Ivo\\Calculator\\Calculator\\Calculator.csproj": {
+    "C:\\Users\\ivora\\Desktop\\Calculator\\calculator_Ivo\\Calculator\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ivora\\Desktop\\calculator-app-main\\calculator_Ivo\\Calculator\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\ivora\\Desktop\\Calculator\\calculator_Ivo\\Calculator\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\ivora\\Desktop\\calculator-app-main\\calculator_Ivo\\Calculator\\Calculator\\Calculator.csproj",
+        "projectPath": "C:\\Users\\ivora\\Desktop\\Calculator\\calculator_Ivo\\Calculator\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\ivora\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ivora\\Desktop\\calculator-app-main\\calculator_Ivo\\Calculator\\Calculator\\obj\\",
+        "outputPath": "C:\\Users\\ivora\\Desktop\\Calculator\\calculator_Ivo\\Calculator\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ivora\\AppData\\Roaming\\NuGet\\NuGet.Config",
